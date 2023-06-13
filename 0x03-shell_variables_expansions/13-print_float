@@ -1,2 +1,2 @@
 #!/bin/bash
-pint "%21" $NUM |sort
+printf "%.2f" $NUM | sort
