@@ -1,0 +1,2 @@
+#!/bin/bash
+pint "%21" $NUM |sort
